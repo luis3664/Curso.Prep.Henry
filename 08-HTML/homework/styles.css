@@ -1,0 +1,51 @@
+
+  body{
+    background-image: url("https://st.depositphotos.com/3470617/4920/v/950/depositphotos_49203401-stock-illustration-pizza-background.jpg");
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 50%; margin: 0 auto;
+  }
+  h1{
+    background-color: #fff;
+    color: blue;
+    max-width: -moz-max-content;
+    width: 50%; margin: 0 auto;
+  }
+
+  h3{
+    background-color: #fff;
+    max-width: -moz-max-content;
+    width: 50%; margin: 0 auto;
+  }
+
+  h4{
+    background-color: #fff;
+    max-width: -moz-max-content;
+    width: 50%; margin: 0 auto;
+  }
+
+  #spanId{
+    margin-left:50px
+    font-size: 18px;
+    text-align:center;
+    background-color: white;
+  }
+
+  #link{
+    background-color: #fff;
+    max-width: -moz-max-content;
+  }
+
+  #thirdDiv{
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border-color: red;
+    border-width: 14px;
+    border-style: inset;
+    background-color: black;
+    text-align:center;
+  }
